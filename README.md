@@ -11,6 +11,7 @@ I believe in collective effort.
 ### 🔖 Know More About Me
 
 👍**Core Expertise:** Anomaly Detection | Network Security | AI/ML In Cybersecurity | Vulnerability Analysis | Computer Forensics | Threat Detection
+
 ⚓**Tools & Frameworks:** Kali Linux | Network Mapping | SIEM Architecture | Risk & Vulnerability Assessment 
 
 ---
