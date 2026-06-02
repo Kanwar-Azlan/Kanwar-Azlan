@@ -1,36 +1,20 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Azlan
 
-### 🚀 About Me
-I am a passionate researcher and developer deeply invested in pushing the boundaries of **[Your Core Domain, e.g., Information Security / AI / Software Engineering]**. My work sits at the intersection of theory and practical implementation, focusing on building resilient, intelligent systems.
+I work in Cybersecurity, currently pursuing a PhD degree in Information Security
 
-- 🔭 **Current Focus:** Advanced research in [Specific Subfield] and optimizing [Technology/Framework].
-- 🔬 **What I'm up to:** Investigating the practical applications of [Concept, e.g., Lattice-based Cryptography / Machine Learning Frameworks].
-- 💬 **Ask me about:** Penetration testing, network forensics, or why [Your Favorite Tool] is better than the alternative.
-- ⚡ **Fun Fact:** When I'm not looking at code or logs, I'm probably [Your Hobby/Interest].
+I run a community called **'Cyber Community 01'**, A platform where I share latest news updates, ideas, free courses, job opportunities related to the cybersecurity.
+
+I believe in collective effort.
 
 ---
 
-### 🛠️ Technical Toolkit
+### 🔖 Know More About Me
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `Python`, `C/C++`, `Bash`, `Markdown` |
-| **Frameworks & Libs** | `TensorFlow`, `PyTorch`, `Scikit-Learn` |
-| **Tools & Platforms** | `Linux (Kali)`, `Git`, `Docker`, `Wireshark` |
-| **Core Expertise** | Network Forensics, Vulnerability Analysis, Post-Quantum Math |
-
----
-
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
-</p>
+👍**Core Expertise:** Anomaly Detection | Network Security | AI/ML In Cybersecurity | Vulnerability Analysis | Computer Forensics | Threat Detection
+⚓**Tools & Frameworks:** Kali Linux | Network Mapping | SIEM Architecture | Risk & Vulnerability Assessment 
 
 ---
 
 ### 🤝 Let's Connect!
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 📝 **ORCID / ResearchGate:** [Link if applicable]
+- 💼 **LinkedIn:** [linkedin.com/in/kanwar-azlan](https://linkedin.com)
+- 📧 **Email:** [kanwarazlan45@gmail.com](mailto:kanwarazlan45@gmail.com)
