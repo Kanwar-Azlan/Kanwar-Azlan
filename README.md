@@ -1,7 +1,7 @@
 # About Me 🙋‍♂️
 
-I am Mr. Kanwar Azlan. I work in cybersecurity, currently pursuing a PhD Degree in Information Security (IS).
-
+Hi, I am Azlan. I work in cybersecurity, currently pursuing a PhD Degree in Information Security (IS).
+**Azlan**
 <!--
 **Kanwar-Azlan/Kanwar-Azlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
