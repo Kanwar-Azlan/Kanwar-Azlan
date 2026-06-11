@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Azlan
-- [✅ ]
 
 I work in Cybersecurity, currently pursuing a PhD degree in Information Security
 
